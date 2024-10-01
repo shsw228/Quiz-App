@@ -6,6 +6,7 @@
 //
 
 import Testing
+@testable import Quiz_App
 
 struct Quiz_AppTests {
 
